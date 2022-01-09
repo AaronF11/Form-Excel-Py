@@ -7,9 +7,8 @@
 
 <h2 align="center" id="about"> Sobre el repositorio </h2>
 
-<center>Formulario con python para guardar archivos como xlsx
+<h3 align="center">Formulario con python para guardar archivos como xlsx</h3>
 
-</center>
 <hr>
 <h3 align="center">Versión en terminal</h3>
 
