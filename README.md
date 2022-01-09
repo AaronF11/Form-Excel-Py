@@ -12,12 +12,12 @@
 <hr>
 <h3 align="center">Versión en terminal</h3>
 
-![](src/image/terminal.png)
+![](src/img/terminal.png)
 
 <hr>
 <h3 align="center">Versión gráfica</h3>
 
-![](src/image/UI.png)
+![](src/img/UI.png)
 
 <hr>
 
